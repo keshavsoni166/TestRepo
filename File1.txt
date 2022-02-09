@@ -3,3 +3,5 @@ Change2 – commit with message as “Change2 in File1”
 master
 bug123
 bug is being resolved
+
+another bug is resolved
